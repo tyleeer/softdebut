@@ -1,0 +1,57 @@
+.searchSection {
+    background-color: #252525;
+}
+
+.formGroup {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.formLabel {
+    width: 50%;
+    color: white;
+    margin-right: 10px;
+    font-size: 1.25rem;
+    text-align: end;
+}
+
+.formSelect {
+    min-width: 150px;
+}
+
+.formNote {
+    text-align: center;
+    color: var(--main-color);
+    margin: 10px 0;
+}
+
+.newsHeader {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5px 10px;
+}
+
+.newsNavigation {
+    display: flex;
+    gap: 10px;
+}
+
+.newsItem {
+    display: flex;
+    flex-direction: column;
+}
+
+.dateBox {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.safetyTips {
+    background-image: url('/images/SOne_index_tips2.png');
+    padding: 15px;
+    text-align: center;
+}

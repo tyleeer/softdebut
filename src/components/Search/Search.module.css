@@ -1,0 +1,47 @@
+.searchContainer {
+    background-color: #F05A28;
+}
+
+.searchBackground {
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+.searchForm {
+    background-size: cover;
+    background-image: url('/images/SOne_index_bg_searchtype.jpg');
+}
+
+.searchTitle {
+    color: white;
+    font-weight: bold;
+}
+
+.searchSubtitle {
+    color: white;
+    font-size: 0.8rem;
+}
+
+.bannerSection {
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: cover;
+    background-image: url('/images/SOne_index_banner.jpg');
+}
+
+.carouselItem {
+    width: 124px;
+    height: 67px;
+}
+
+.searchFormContainer {
+    max-width: 240px;
+    margin-left: auto;
+}
+
+@media (min-width: 768px) {
+    .searchFormContainer {
+        max-width: 200px;
+        margin-left: auto;
+    }
+}

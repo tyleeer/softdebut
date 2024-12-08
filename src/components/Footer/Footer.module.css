@@ -1,0 +1,9 @@
+.menuBackground {
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+.menuMiddle {
+    background-repeat: repeat-x;
+    background-position: center top;
+}
