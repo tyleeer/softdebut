@@ -1,9 +1,9 @@
 "use client";
 
 import React from "react";
-import Search from "@/components/Search/Search.js";
-import Banner from "@/components/Banner/Banner.js";
-import CustomerService from "@/components/CustomerService/CustomerService.js";
+import Search from "@/components/Search/Search";
+import Banner from "@/components/Banner/Banner";
+import CustomerService from "@/components/CustomerService/CustomerService";
 
 const Main = () => {
   return (
